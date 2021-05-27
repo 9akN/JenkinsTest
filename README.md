@@ -1,3 +1,1 @@
-"# JenkinsTest" 
-"# JenkinsTest" 
-"# JenkinsTest" 
+Project used to test Jenkins.
