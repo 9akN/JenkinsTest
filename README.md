@@ -1,1 +1,1 @@
-Project used to test Jenkins.
+Student project used for Jenkins, installed on Microsoft Azure.
